@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/souza-marcos/souza-marcos/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **souza-marcos/souza-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
