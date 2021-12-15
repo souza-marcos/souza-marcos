@@ -6,7 +6,7 @@
 👯 I’m looking to collaborate on Web Projects. \
 📫 How to reach me: \
 [![Gmail address](https://img.shields.io/badge/marcos.daniel.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:marcos.daniel.dev@gmail.com)](mailto:marcos.daniel.dev@gmail.com)
-[![LinkedIn address](https://img.shields.io/badge/marcosdanielsouza-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcosdanielsouza)
+[![LinkedIn address](https://img.shields.io/badge/marcosdanielsouza-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosdanielsouza)
 
 ---
 
